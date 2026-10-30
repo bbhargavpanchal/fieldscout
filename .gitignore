@@ -1,0 +1,15 @@
+data/
+runs/
+export/
+reports/
+onnxruntime-linux-x64-*/
+*.tgz
+*.zip
+*.pt
+*.onnx
+cpp/fieldscout_infer
+cpp/*.csv
+cpp/*.txt
+__pycache__/
+.ipynb_checkpoints/
+demo_images/
